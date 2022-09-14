@@ -10,7 +10,7 @@ const pantsImage = document.getElementById('pants-image');
 const phraseInput = document.getElementById('phrase-input');
 const addButton = document.getElementById('add-button');
 const phraseList = document.getElementById('phrase-list');
-
+/* added first commit from main branch by mistake */
 /* State */
 const character = {
     head: 'bird',
